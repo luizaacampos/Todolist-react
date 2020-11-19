@@ -1,0 +1,10 @@
+label {
+    padding: 10px;
+    font-size: 40px; 
+    font-family: sans-serif;
+    color: #191a1c;
+}
+
+label input {
+    margin-right: 5px;
+}
