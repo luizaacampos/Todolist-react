@@ -19,13 +19,14 @@ body {
 .paper {
     width: 700px;
     height: auto;
-    border-radius: 30px;
+    border-radius: 5px;
     display: flex;
     flex-direction: column;
     align-items: left;
     justify-content: flex-end;
     padding: 75px;
     background-color: #FFFF99;
+    box-shadow: 2px 2px #888888;
 }
 
 .functions {
