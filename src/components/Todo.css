@@ -1,15 +1,13 @@
-.check label {
+label {
     display: inline-block;
     padding-right: 10px;
-    white-space: nowrap;
-}
-.check input {
-    vertical-align: middle;
-}
-.check label span {
     vertical-align: middle;
     font-size: 40px; 
     font-family: sans-serif;
     padding: 5px;
     color: #191a1c;
+}
+
+input {
+    vertical-align: middle;
 }
